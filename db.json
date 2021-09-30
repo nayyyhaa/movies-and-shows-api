@@ -82,6 +82,15 @@
             "rating": 7.5,
             "year":"2017",
             "poster":"https://images.app.goo.gl/YB99YcRnMZrE536GA"
+        },
+        {
+            "id": 4,
+            "title":"Brooklyn Nine-Nine",
+            "plot":"Ray Holt, an eccentric commanding officer, and his diverse and quirky team of odd detectives solve crimes in Brooklyn, New York City.",
+            "genre":"Sitcom",
+            "rating": 8.4,
+            "year":"2013",
+            "poster":"https://images.app.goo.gl/SHuYgfusLjdMT84k6"
         }
     ]
 }
