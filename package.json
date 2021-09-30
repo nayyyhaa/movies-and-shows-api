@@ -1,0 +1,23 @@
+{
+  "name": "movies-and-shows-api",
+  "version": "1.0.0",
+  "description": "This is a RESTful API made using the json-server package, where you can get a mock REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayyyhaa/movies-and-shows-api.git"
+  },
+  "author": "neha gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayyyhaa/movies-and-shows-api/issues"
+  },
+  "homepage": "https://github.com/nayyyhaa/movies-and-shows-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
