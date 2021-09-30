@@ -1,0 +1,87 @@
+{
+    "movies": [
+        {
+            "id": 0,
+            "title":"Avengers: Endgame",
+            "plot":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
+            "genre":"Action, Adventure, Fantasy, Sci-Fi",
+            "rating": 8.4,
+            "year":"2019",
+            "poster":"https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg"
+        },
+        {
+            "id": 1,
+            "title":"The Godfather",
+            "plot":"Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+            "genre":"Crime, Drama",
+            "rating": 9.1,
+            "year":"1972",
+            "poster":"https://images.app.goo.gl/5pC3DXs4R6PMfRkW8"
+        },
+        {
+            "id": 2,
+            "title":"The Dark Knight",
+            "plot":"After Gordon, Dent and Batman begin an assault on Gotham's organised crime, the mobs hire the Joker, a psychopathic criminal mastermind who offers to kill Batman and bring the city to its knees.",
+            "genre":"Action, Adventure",
+            "rating": 9,
+            "year":"2008",
+            "poster":"https://images.app.goo.gl/oLYNmMSVKv3jF84B6"
+        },
+        {
+            "id": 3,
+            "title":"Pulp Fiction",
+            "plot":"In the realm of underworld, a series of incidents intertwines the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two small-time criminals.",
+            "genre":"Crime, Drama",
+            "rating": 8.8,
+            "year":"1994",
+            "poster":"https://images.app.goo.gl/UX28GLy1GMvohQCr7"
+        },
+        {
+            "id": 4,
+            "title":"Forrest Gump ",
+            "plot":"Forrest, a man with low IQ, recounts the early years of his life when he found himself in the middle of key historical events. All he wants now is to be reunited with his childhood sweetheart, Jenny.",
+            "genre":"Drama, Romance",
+            "rating": 8.4,
+            "year":"1994",
+            "poster":"https://images.app.goo.gl/6R1zNbYMpsa2RQZ67"
+        }
+    ],
+    "shows": [
+        {
+            "id": 0,
+            "title":"You",
+            "plot":"What would you do for love? For a brilliant male bookstore manager who crosses paths with an aspiring female writer, this question is put to the test.",
+            "genre":"Crime, Drama",
+            "rating": 7.7,
+            "year":"2018",
+            "poster":"https://images.app.goo.gl/8Ctn7Xz1hkiNUYhj7"
+        },
+        {
+            "id": 1,
+            "title":"F.R.I.E.N.D.S",
+            "plot":"Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening.",
+            "genre":"Sitcom",
+            "rating": 8.8,
+            "year":"1994",
+            "poster":"https://images.app.goo.gl/s8MgXzzvR5KmzT1R8"
+        },
+        {
+            "id": 2,
+            "title":"2 Broke Girls",
+            "plot":"Max and Caroline, two girls in their mid-twenties, work at a Brooklyn restaurant as waitresses. Together, they dream of starting up their cupcake business, but always find themselves without money.",
+            "genre":"Sitcom",
+            "rating": 6.6,
+            "year":"2011",
+            "poster":"https://images.app.goo.gl/eXdjZySBSSPm9NLV7"
+        },
+        {
+            "id": 3,
+            "title":"Young Sheldon",
+            "plot":"Sheldon Cooper, a bona fide genius, has been promoted four grades. Meanwhile, he struggles to fit in with his unintellectual family in Texas.",
+            "genre":"Sitcom",
+            "rating": 7.5,
+            "year":"2017",
+            "poster":"https://images.app.goo.gl/YB99YcRnMZrE536GA"
+        }
+    ]
+}
