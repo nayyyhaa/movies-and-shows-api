@@ -5,6 +5,13 @@
 This is a RESTful API made using the [json-server](https://github.com/typicode/json-server) package, where you can get a mock REST API.
 User can interact with this database via making GET, POST, PUT, DELETE etc requests to it. You can even get an individual movies/shows. 
 
+## Quickstart
+If you want to run the Movies and Shows API, make sure you have [Nodejs](https://nodejs.org/en/) installed and run the following commands in the repository directory.
+```
+$ npm install
+$ node server.js
+```
+
 ## Want to contribute for Hacktoberfest?
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/nayyyhaa) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/nayyyhaa/movies-and-shows-api/pulls)
