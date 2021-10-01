@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nayyyhaa/movies-and-shows-api#readme",
   "dependencies": {
+    "jest": "^27.2.4",
     "json-server": "^0.16.3"
   }
 }
