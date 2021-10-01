@@ -44,6 +44,60 @@
             "rating": 8.4,
             "year":"1994",
             "poster":"https://images.app.goo.gl/6R1zNbYMpsa2RQZ67"
+        },
+        {
+            "id": 5,
+            "title":"Falling Down",
+            "plot":"An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+            "genre":"Action, Crime, Drama",
+            "rating": 7.6,
+            "year":"1993",
+            "poster":"https://images.app.goo.gl/5YfzB9qGbbsopeT4A"
+        },
+        {
+            "id": 6,
+            "title":"The social network",
+            "plot":"As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+            "genre":"Drama, Biography, History",
+            "rating": 7.7,
+            "year":"2010",
+            "poster":"https://images.app.goo.gl/LNkr2rhzukM9smdg7"
+        },
+        {
+            "id": 7,
+            "title":"Pirates of Silicon Valley",
+            "plot":"This is a semi-humorous biographical film about the men who made the world of technology what it is today, their struggles during college, the founding of their companies, and the ingenious actions they took to build up the global corporate empires of Apple Computer Corporation and Microsoft Inc.",
+            "genre":"Drama, Biography, History",
+            "rating": 7.2,
+            "year":"1999",
+            "poster":"https://images.app.goo.gl/HEJHoVjDpNkTfY557"
+        },
+        {
+            "id": 8,
+            "title":"Free Guy",
+            "plot":"A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+            "genre":"Action, Adventure",
+            "rating": 7.4,
+            "year":"2021",
+            "poster":"https://images.app.goo.gl/4akM2sMWsqqzeFuD6"
+        },
+        {
+            "id": 9,
+            "title":"Interstellar",
+            "plot":"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+            "genre":"Adventure, Drama, Sci-Fi",
+            "rating": 8.6,
+            "year":"2014",
+            "poster":"https://images.app.goo.gl/tpKfwhNM2mTt2ngcA"
+        },
+        {
+            "id": 10,
+            "title":"Cinderella 2021",
+            "plot":"A modern movie musical with a bold take on the classic fairy tale. Our ambitious heroine has big dreams and with the help of her fab Godmother, she perseveres to make them come true.",
+            "genre":"Adventure, Comedy, Family",
+            "rating": 4.2,
+            "year":"2021",
+            "poster":"https://images.app.goo.gl/GaLA5xkcgYNm6yPbA"
         }
     ],
     "shows": [
@@ -91,6 +145,24 @@
             "rating": 8.4,
             "year":"2013",
             "poster":"https://images.app.goo.gl/SHuYgfusLjdMT84k6"
+        },
+        {
+            "id": 5,
+            "title":"Money Heist",
+            "plot":"An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "genre":"Action, Crime, Mystery",
+            "rating": 8.2,
+            "year":"2017",
+            "poster":"https://images.app.goo.gl/3oUxc8xrRBGczTDb6"
+        },
+        {
+            "id": 6,
+            "title":"The Office",
+            "plot":"A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+            "genre":"Comedy",
+            "rating": 8.9,
+            "year":"2005",
+            "poster":"https://images.app.goo.gl/KSHWMhg9QW1ytB6i7"
         }
     ]
 }
