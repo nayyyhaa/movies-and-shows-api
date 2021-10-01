@@ -166,12 +166,21 @@
         },
         {
             "id": 6,
-            "title":"The Office",
-            "plot":"A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
-            "genre":"Comedy",
+            "title": "The Office",
+            "plot": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+            "genre": "Comedy",
             "rating": 8.9,
-            "year":"2005",
-            "poster":"https://images.app.goo.gl/KSHWMhg9QW1ytB6i7"
+            "year": "2005",
+            "poster": "https://images.app.goo.gl/KSHWMhg9QW1ytB6i7"
+        },
+        {
+            "id": 7,
+            "title": "Suits",
+            "plot": "A drama series where a brilliant college dropout finds himself with one of New York City's best lawyers in a mishap of his drug deal.",
+            "genre": "Drama",
+            "rating": 8.4,
+            "year": "2011",
+            "poster": "https://images.app.goo.gl/m8mNDaXumjoyZxdk9"
         }
     ]
 }
