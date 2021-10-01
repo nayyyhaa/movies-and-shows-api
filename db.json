@@ -98,6 +98,15 @@
             "rating": 4.2,
             "year":"2021",
             "poster":"https://images.app.goo.gl/GaLA5xkcgYNm6yPbA"
+        },
+	{
+            "id": 11,
+            "title":"Fight Club",
+            "plot":"Discontented with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. The project soon spirals down into something sinister.",
+            "genre":"Thriller, Drama",
+            "rating": 8.8,
+            "year":"1999",
+            "poster":"https://images.app.goo.gl/9Xd1S1hYUE9sqeQL6"
         }
     ],
     "shows": [
