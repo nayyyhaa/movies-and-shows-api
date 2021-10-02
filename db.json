@@ -181,6 +181,24 @@
             "rating": 8.4,
             "year": "2011",
             "poster": "https://images.app.goo.gl/m8mNDaXumjoyZxdk9"
+        },
+        {
+            "id": 8,
+            "title": "How I Met Your Mother",
+            "plot": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+            "genre": "Comedy, Romance",
+            "rating": 8.3,
+            "year": "2005",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Dexter",
+            "plot": "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and nights committing them.",
+            "genre": "Crime, drama",
+            "rating": 8.6,
+            "year": "2006",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODA1ZjEwNjYtODBhYS00MDEyLTgxZjMtNjAwODMwODNkNzIzXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UY281_CR4,0,190,281_.jpg"
         }
     ]
 }
