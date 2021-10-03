@@ -199,6 +199,24 @@
             "rating": 8.6,
             "year": "2006",
             "poster": "https://m.media-amazon.com/images/M/MV5BODA1ZjEwNjYtODBhYS00MDEyLTgxZjMtNjAwODMwODNkNzIzXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+        },
+	{
+	    "id": 10,
+	    "title": "Sherlock",
+	    "plot": "Dr Watson, a former army doctor, finds himself sharing a flat with Sherlock Holmes, an eccentric individual with a knack for solving crimes. Together, they take on the most unusual cases.",
+	    "genre": "Crime,Mystery",
+	    "rating": 9.1,
+	    "year": "2010",
+	    "poster": "https://m.media-amazon.com/images/I/714nEMf6oyS._SY550_.jpg"
+	},
+	{
+            "id": 11,
+            "title": "Game of Thrones",
+            "plot": "Nine noble families wage war against each other in order to gain control over the mythical land of Westeros. Meanwhile, a force is rising after millenniums and threatens the existence of living men.",
+            "genre": "Drama,Fantasy",
+            "rating": 9.2,
+            "year": "2010",
+            "poster": "https://flxt.tmsimg.com/assets/p8553063_b_v13_ax.jpg"
         }
     ]
 }
