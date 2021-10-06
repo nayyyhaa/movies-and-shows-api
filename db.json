@@ -209,7 +209,7 @@
             "year": "2006",
             "poster": "https://m.media-amazon.com/images/M/MV5BODA1ZjEwNjYtODBhYS00MDEyLTgxZjMtNjAwODMwODNkNzIzXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UY281_CR4,0,190,281_.jpg"
         },
-	{
+	    {
 	    "id": 10,
 	    "title": "Sherlock",
 	    "plot": "Dr Watson, a former army doctor, finds himself sharing a flat with Sherlock Holmes, an eccentric individual with a knack for solving crimes. Together, they take on the most unusual cases.",
@@ -218,7 +218,7 @@
 	    "year": "2010",
 	    "poster": "https://m.media-amazon.com/images/I/714nEMf6oyS._SY550_.jpg"
 	},
-	{
+	    {
             "id": 11,
             "title": "Game of Thrones",
             "plot": "Nine noble families wage war against each other in order to gain control over the mythical land of Westeros. Meanwhile, a force is rising after millenniums and threatens the existence of living men.",
@@ -235,6 +235,15 @@
             "rating": 8.3,
             "year": "2021",
             "poster": "https://images.app.goo.gl/dEbS7BUopc22TBSD7"
+        },
+        {
+            "id": 13,
+            "title": "The Midnight Gospel",
+            "plot": "The Midnight Gospel is a scientific science animated series about identifying real philosophical themes, created by Pendleton Ward and Duncan Trussell, released on Netflix on April 20, 2020.",
+            "genre": "comedy, animation",
+            "rating": 9.5,
+            "year": "2020",
+            "poster": "https://br.web.img3.acsta.net/pictures/20/04/07/09/20/3137618.jpg"
         }
     ]
 }
