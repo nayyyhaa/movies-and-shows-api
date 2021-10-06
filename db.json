@@ -226,6 +226,15 @@
             "rating": 9.2,
             "year": "2010",
             "poster": "https://flxt.tmsimg.com/assets/p8553063_b_v13_ax.jpg"
+        },
+	    {
+            "id": 12,
+            "title": "Squid Games",
+            "plot": "The series centers on a contest where 456 players, drawn from different walks of life but each deeply in debt, play a set of children's games with deadly consequences for losing for a chance to win a ₩45.6 billion prize.",
+            "genre": "Drama,Thriller",
+            "rating": 8.3,
+            "year": "2021",
+            "poster": "https://images.app.goo.gl/dEbS7BUopc22TBSD7"
         }
     ]
 }
