@@ -99,8 +99,17 @@
             "year":"2021",
             "poster":"https://images.app.goo.gl/GaLA5xkcgYNm6yPbA"
         },
-	{
+	     {
             "id": 11,
+            "title":"The Conjuring",
+            "plot":"n 1970, paranormal investigators and demonologists Lorraine (Vera Farmiga) and Ed (Patrick Wilson) Warren are summoned to the home of Carolyn (Lili Taylor) and Roger (Ron Livingston) Perron. The Perrons and their five daughters have recently moved into a secluded farmhouse, where a supernatural presence has made itself known. Though the manifestations are relatively benign at first, events soon escalate in horrifying fashion, especially after the Warrens discover the house's macabre history.",
+            "genre":"Horrora",
+            "rating": 7.5,
+            "year":"2013",
+            "poster":"https://images.app.goo.gl/C8K8SG65UKv5C9xu9"
+        },
+	{
+            "id": 12,
             "title":"Fight Club",
             "plot":"Discontented with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. The project soon spirals down into something sinister.",
             "genre":"Thriller, Drama",
