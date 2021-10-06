@@ -41,11 +41,11 @@ It should include `id`, `title`, `plot`, `genre`, `rating`, `year` and `poster` 
 11) Add a message and click on **Create Pull Request**.
 ![PR2](https://user-images.githubusercontent.com/46138150/135514625-c121de09-c64e-462d-8017-16f8e14de5fe.png)
 
-Confirm the pull request and that's it!
+Confirm the pull request and that's it!!
 
 🥁*BADUM-TISS!!!*🥁
 
-YAYY!! You've finally made your Open Source Contribution OR maybe you will. 😉
+YAYY!!! You've finally made your Open Source Contribution OR maybe you will. 😉
 
 
 
