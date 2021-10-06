@@ -32,4 +32,4 @@ This is a begineer friendly repository to get your Open Source journey started! 
  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whitel)](https://twitter.com/nayyyhaa)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nehacode/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayyyhaa/)
 
-Till then..*Happy Hacking, fellas! 🎃*
+Till then..**Happy Hacking, fellas! 🎃*
