@@ -116,6 +116,15 @@
             "rating": 8.8,
             "year":"1999",
             "poster":"https://images.app.goo.gl/9Xd1S1hYUE9sqeQL6"
+        },
+	{
+            "id": 13,
+            "title":"Harry Potter and the Philosopher's Stone",
+            "plot":"Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards. There, he meets several friends who become his closest allies and help him discover the truth about his parents' mysterious deaths.",
+            "genre":"Fantasy, Family",
+            "rating": 7.6,
+            "year":"2001",
+            "poster":"https://static.wikia.nocookie.net/harrypotter/images/f/fb/PS_poster.jpg/revision/latest?cb=20180318153750"
         }
     ],
     "shows": [
