@@ -116,6 +116,42 @@
             "rating": 8.8,
             "year":"1999",
             "poster":"https://images.app.goo.gl/9Xd1S1hYUE9sqeQL6"
+        },
+	{
+            "id": 13,
+            "title":"Get Out",
+            "plot":"Get Out is a bizarre movie about the events that happen to a guy named Chris who goes to visit his girlfriend’s parents over a weekend.",
+            "genre":"Horror, Thriller",
+            "rating":7.7,
+            "year":"2017",
+            "poster":"https://images.app.goo.gl/jhLvEf5GK28oewdM9"
+        },
+	{
+            "id": 14,
+            "title":"Five Feet Apart",
+            "plot":"Five Feet Apart Summary F ive Feet Apart is a novel about Stella Grant and Will Newman, two teenagers with cystic fibrosis who fall in love.",
+            "genre":"Romance, Drama",
+            "rating":7.2,
+            "year":"2019",
+            "poster":"https://images.app.goo.gl/1qWgUe7nCLQjGJeR6"
+        },
+	{
+            "id": 15,
+            "title":"Chemical Hearts",
+            "plot":"Chemical Hearts’ is the story of a teenager who falls in love for the first time, only to realize that it is not as magnificent and fairy-tale-ish as it is shown in the movies.",
+            "genre":"Romance, Teenage Limbo",
+            "rating":6.3,
+            "year":"2020",
+            "poster":"https://images.app.goo.gl/bhMv8SPdpRdaSht19"
+        },
+	{
+            "id": 16,
+            "title":"Gone Girl",
+            "plot":"With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "genre":"Mystery, Thriller, Drama",
+            "rating":8.1,
+            "year":"2014",
+            "poster":"https://images.app.goo.gl/y3bsrA9Abr3V26bU9"
         }
     ],
     "shows": [
