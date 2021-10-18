@@ -298,6 +298,16 @@
       "rating": 9.5,
       "year": "2020",
       "poster": "https://br.web.img3.acsta.net/pictures/20/04/07/09/20/3137618.jpg"
+    },
+
+    {
+      "id": 14,
+      "title": "Scam 1992",
+      "plot": "Harshad Mehta took the stock market to dizzying heights and had a catastrophic downfall.",
+      "genre": "Crime,Drama",
+      "rating": 9.5,
+      "year": "2020",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPT4dbNPCbzIbsIJVwhEbnLEN0fYUx_mdE55GU_zhaDL1xfQ8d"
     }
   ]
 }
