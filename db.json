@@ -307,6 +307,15 @@
       "rating": 8.7,
       "year": "2018",
       "poster": "https://m.media-amazon.com/images/M/MV5BZDE0ODVlYjktNjJiMC00ODk4LWIwNTktMWRhZmZiOGFhYmUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Shawshank Redemption",
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "genre": "Drama",
+      "rating": 9.3,
+      "year": "1994",
+      "poster": "https://www.imdb.com/title/tt0111161/mediaviewer/rm10105600/"
     }
   ]
 }
