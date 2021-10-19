@@ -170,7 +170,43 @@
       "rating":8.1,
       "year":"2014",
       "poster":"https://images.app.goo.gl/y3bsrA9Abr3V26bU9"
-    }  
+    },
+    {
+      "id": 19,
+      "title": "The Accountant",
+      "plot": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities, and the body count starts to rise.",
+      "genre": "Crime, Drama, Thriller, Action",
+      "rating": 7.3,
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/original/vnEDk1Dr2FqrEaLjD437NYAjYVu.jpg"
+    },
+    {
+      "id": 20,
+      "title": "How to Steal a Million",
+      "plot": "The daughter of an art forger teams up with a burglar to steal one of her father's forgeries and protect his secret.",
+      "genre": "Crime, Comedy, Romance",
+      "rating": 7.6,
+      "year": "1966",
+      "poster": "https://image.tmdb.org/t/p/original/jQuBlzvWABKIqZSin3cpPn9r7br.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Austenland",
+      "plot": "Obsessed with Pride and Prejudice (1995), a woman travels to a Jane Austen theme park in search for her perfect gentleman.",
+      "genre": "Comedy, Romance",
+      "rating": 6.3,
+      "year": "2013",
+      "poster": "https://www.reellifewithjane.com/wp-content/uploads/2014/02/Austenland-Poster.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Ever After: A Cinderella Story",
+      "plot": "The Brothers Grimm arrive at the home of a wealthy Grande Dame who speaks of the many legends surrounding the fable of the cinder girl before telling the 'true' story of her ancestor.",
+      "genre": "Drama, Comedy, Romance",
+      "rating": 7.0,
+      "year": "1998",
+      "poster": "https://4.bp.blogspot.com/-Bdje-0eunIo/Ud2psOtsrFI/AAAAAAAAAU8/I8k2t53AcEs/s1600/EverAfter-1998-movie-poster.jpg"
+    },   
   ],
   "shows": [
     {
@@ -328,6 +364,6 @@
     "rating": 9.5,
     "year": "2020",
     "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPT4dbNPCbzIbsIJVwhEbnLEN0fYUx_mdE55GU_zhaDL1xfQ8d"
-    }
+    },   
   ]
 }
