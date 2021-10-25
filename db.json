@@ -206,6 +206,24 @@
       "rating": 7.0,
       "year": "1998",
       "poster": "https://4.bp.blogspot.com/-Bdje-0eunIo/Ud2psOtsrFI/AAAAAAAAAU8/I8k2t53AcEs/s1600/EverAfter-1998-movie-poster.jpg"
+    },
+    {
+      "id": 23,
+      "title": "No Time to Die",
+      "plot": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+      "genre": "Action, Adventure, Thriller",
+      "rating": 7.6,
+      "year": "2021",
+      "poster": "https://www.bollywoodhungama.com/wp-content/uploads/2021/09/No-Time-To-Die-to-be-the-FIRST-James-Bond-film-to-release-in-3D-expected-to-be-the-BIGGEST-Hollywood-release-post-pandemic-in-India.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Dune",
+      "plot": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+      "genre": "Action, Adventure, Drama",
+      "rating": 8.3,
+      "year": "2021",
+      "poster": "https://pics.filmaffinity.com/Dune-756528084-large.jpg"
     },   
   ],
   "shows": [
