@@ -354,7 +354,6 @@
       "rating": 9.3,
       "year": "1994",
       "poster": "https://www.imdb.com/title/tt0111161/mediaviewer/rm10105600/"
-
     },
     {
     "id": 16,
@@ -364,6 +363,15 @@
     "rating": 9.5,
     "year": "2020",
     "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPT4dbNPCbzIbsIJVwhEbnLEN0fYUx_mdE55GU_zhaDL1xfQ8d"
-    },   
+    },  
+    {
+      "id": 17,
+      "title": "Angry Men",
+      "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "genre": "Crime,Drama",
+      "rating": 9.0,
+      "year": "1957",
+      "poster": "https://www.imdb.com/title/tt0050083/mediaviewer/rm2927108352/"
+    },
   ]
 }
