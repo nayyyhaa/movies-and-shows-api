@@ -307,6 +307,15 @@
       "rating": 9.3,
       "year": "1994",
       "poster": "https://www.imdb.com/title/tt0111161/mediaviewer/rm10105600/"
+    },
+    {
+      "id": 15,
+      "title": "Angry Men",
+      "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "genre": "Crime,Drama",
+      "rating": 9.0,
+      "year": "1957",
+      "poster": "https://www.imdb.com/title/tt0050083/mediaviewer/rm2927108352/"
     }
   ]
 }
