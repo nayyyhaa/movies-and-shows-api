@@ -225,6 +225,15 @@
       "year": "2021",
       "poster": "https://pics.filmaffinity.com/Dune-756528084-large.jpg"
     },   
+	{
+      "id": 25,
+      "title": "The Lion King",
+      "plot": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+      "genre": "Animation, Adventure, Drama",
+      "rating": 6.8,
+      "year": "2019",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_thelionking2019_19732_c1561d41.jpeg"
+    },
   ],
   "shows": [
     {
