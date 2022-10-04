@@ -242,6 +242,15 @@
       "rating": 8.1,
       "year": "2022",
       "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Encanto",
+      "plot": "The Madrigals are an extraordinary family who live hidden in the mountains of Colombia in a charmed place called the Encanto.",
+      "genre": "Animation, Comedy, Family",
+      "rating": 7.2,
+      "year": "2021",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg"
     }
   ],
   "shows": [
