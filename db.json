@@ -233,7 +233,7 @@
       "rating": 6.8,
       "year": "2019",
       "poster": "https://lumiere-a.akamaihd.net/v1/images/p_thelionking2019_19732_c1561d41.jpeg"
-    },
+    }
   ],
   "shows": [
     {
@@ -399,6 +399,6 @@
       "rating": 9.0,
       "year": "1957",
       "poster": "https://www.imdb.com/title/tt0050083/mediaviewer/rm2927108352/"
-    },
+    }
   ]
 }
