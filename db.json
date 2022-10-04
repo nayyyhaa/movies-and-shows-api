@@ -119,12 +119,12 @@
     },
     {
       "id": 13,
-      "title":"Harry Potter and the Philosopher's Stone",
-      "plot":"Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards. There, he meets several friends who become his closest allies and help him discover the truth about his parents' mysterious deaths.",
-      "genre":"Fantasy, Family",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "plot": "Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards. There, he meets several friends who become his closest allies and help him discover the truth about his parents' mysterious deaths.",
+      "genre": "Fantasy, Family",
       "rating": 7.6,
-      "year":"2001",
-      "poster":"https://static.wikia.nocookie.net/harrypotter/images/f/fb/PS_poster.jpg/revision/latest?cb=20180318153750"
+      "year": "2001",
+      "poster": "https://static.wikia.nocookie.net/harrypotter/images/f/fb/PS_poster.jpg/revision/latest?cb=20180318153750"
     },
     {
       "id": 14,
@@ -137,39 +137,39 @@
     },
     {
       "id": 15,
-      "title":"Get Out",
-      "plot":"Get Out is a bizarre movie about the events that happen to a guy named Chris who goes to visit his girlfriend’s parents over a weekend.",
-      "genre":"Horror, Thriller",
-      "rating":7.7,
-      "year":"2017",
-      "poster":"https://images.app.goo.gl/jhLvEf5GK28oewdM9"
+      "title": "Get Out",
+      "plot": "Get Out is a bizarre movie about the events that happen to a guy named Chris who goes to visit his girlfriend’s parents over a weekend.",
+      "genre": "Horror, Thriller",
+      "rating": 7.7,
+      "year": "2017",
+      "poster": "https://images.app.goo.gl/jhLvEf5GK28oewdM9"
     },
     {
       "id": 16,
-      "title":"Five Feet Apart",
-      "plot":"Five Feet Apart Summary F ive Feet Apart is a novel about Stella Grant and Will Newman, two teenagers with cystic fibrosis who fall in love.",
-      "genre":"Romance, Drama",
-      "rating":7.2,
-      "year":"2019",
-      "poster":"https://images.app.goo.gl/1qWgUe7nCLQjGJeR6"
+      "title": "Five Feet Apart",
+      "plot": "Five Feet Apart Summary F ive Feet Apart is a novel about Stella Grant and Will Newman, two teenagers with cystic fibrosis who fall in love.",
+      "genre": "Romance, Drama",
+      "rating": 7.2,
+      "year": "2019",
+      "poster": "https://images.app.goo.gl/1qWgUe7nCLQjGJeR6"
     },
     {
       "id": 17,
-      "title":"Chemical Hearts",
-      "plot":"Chemical Hearts’ is the story of a teenager who falls in love for the first time, only to realize that it is not as magnificent and fairy-tale-ish as it is shown in the movies.",
-      "genre":"Romance, Teenage Limbo",
-      "rating":6.3,
-      "year":"2020",
-      "poster":"https://images.app.goo.gl/bhMv8SPdpRdaSht19"
+      "title": "Chemical Hearts",
+      "plot": "Chemical Hearts’ is the story of a teenager who falls in love for the first time, only to realize that it is not as magnificent and fairy-tale-ish as it is shown in the movies.",
+      "genre": "Romance, Teenage Limbo",
+      "rating": 6.3,
+      "year": "2020",
+      "poster": "https://images.app.goo.gl/bhMv8SPdpRdaSht19"
     },
     {
       "id": 18,
-      "title":"Gone Girl",
-      "plot":"With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
-      "genre":"Mystery, Thriller, Drama",
-      "rating":8.1,
-      "year":"2014",
-      "poster":"https://images.app.goo.gl/y3bsrA9Abr3V26bU9"
+      "title": "Gone Girl",
+      "plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "genre": "Mystery, Thriller, Drama",
+      "rating": 8.1,
+      "year": "2014",
+      "poster": "https://images.app.goo.gl/y3bsrA9Abr3V26bU9"
     },
     {
       "id": 19,
@@ -224,8 +224,8 @@
       "rating": 8.3,
       "year": "2021",
       "poster": "https://pics.filmaffinity.com/Dune-756528084-large.jpg"
-    },   
-	{
+    },
+    {
       "id": 25,
       "title": "The Lion King",
       "plot": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
@@ -233,6 +233,15 @@
       "rating": 6.8,
       "year": "2019",
       "poster": "https://lumiere-a.akamaihd.net/v1/images/p_thelionking2019_19732_c1561d41.jpeg"
+    },
+    {
+      "id": 26,
+      "title": "Everything Everywhere All at Once",
+      "plot": "A Chinese immigrant gets unwillingly embroiled in an epic adventure where she must connect different versions of herself in the parallel universe to stop someone who intends to harm the multiverse.",
+      "genre": "Adventure, Sci-fi",
+      "rating": 8.1,
+      "year": "2022",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg"
     }
   ],
   "shows": [
@@ -361,9 +370,8 @@
       "rating": 9.5,
       "year": "2020",
       "poster": "https://br.web.img3.acsta.net/pictures/20/04/07/09/20/3137618.jpg"
-    
     },
-    
+
     {
       "id": 14,
       "title": "Succession",
@@ -383,14 +391,14 @@
       "poster": "https://www.imdb.com/title/tt0111161/mediaviewer/rm10105600/"
     },
     {
-    "id": 16,
-    "title": "Scam 1992",
-    "plot": "Harshad Mehta took the stock market to dizzying heights and had a catastrophic downfall.",
-    "genre": "Crime,Drama",
-    "rating": 9.5,
-    "year": "2020",
-    "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPT4dbNPCbzIbsIJVwhEbnLEN0fYUx_mdE55GU_zhaDL1xfQ8d"
-    },  
+      "id": 16,
+      "title": "Scam 1992",
+      "plot": "Harshad Mehta took the stock market to dizzying heights and had a catastrophic downfall.",
+      "genre": "Crime,Drama",
+      "rating": 9.5,
+      "year": "2020",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPT4dbNPCbzIbsIJVwhEbnLEN0fYUx_mdE55GU_zhaDL1xfQ8d"
+    },
     {
       "id": 17,
       "title": "Angry Men",
