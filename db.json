@@ -251,6 +251,15 @@
       "rating": 7.2,
       "year": "2021",
       "poster": "https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg"
+    },
+    {
+      "id": 28,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "plot": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.",
+      "genre": "Action, Adventure, Sci-Fi",
+      "rating": 7,
+      "year": "2022",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg"
     }
   ],
   "shows": [
