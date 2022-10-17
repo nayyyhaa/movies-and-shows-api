@@ -2,7 +2,7 @@
 [![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nayyyhaa/movies-and-shows-api/CONTRIBUTING.md)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/nayyyhaa/movies-and-shows-api/issues)
 
-This is a RESTful API made using the [json-server](https://github.com/typicode/json-server) package, where you can get a mock REST API.
+This is a REST-ful API made using the [json-server](https://github.com/typicode/json-server) package, where you can get a mock REST API.
 User can interact with this database via making GET, POST, PUT, DELETE etc requests to it. You can even get an individual movies/shows. 
 
 ### Quickstart
