@@ -13,8 +13,8 @@ $ node server.js
 ```
 
 ## 🥳 Want to use the API in your Project? 
-- Access **Movie API** from [here](https://movies-and-shows-api.herokuapp.com/movies)
-- Access **Shows API** from [here](https://movies-and-shows-api.herokuapp.com/shows)
+- Access **Movie API** from [here](https://movies-and-shows-api.cyclic.app/movies)
+- Access **Shows API** from [here](https://movies-and-shows-api.cyclic.app/shows)
 
 ## 🎃 Want to contribute for Hacktoberfest?
 
