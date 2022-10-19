@@ -389,7 +389,6 @@
       "year": "2020",
       "poster": "https://br.web.img3.acsta.net/pictures/20/04/07/09/20/3137618.jpg"
     },
-
     {
       "id": 14,
       "title": "Succession",
@@ -425,6 +424,15 @@
       "rating": 9.0,
       "year": "1957",
       "poster": "https://www.imdb.com/title/tt0050083/mediaviewer/rm2927108352/"
+    },
+    {
+      "id": 8,
+      "title": "One Piece",
+      "plot": "Follows the adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger. The famous mystery treasure named One Piece",
+      "genre": "Anime",
+      "rating": 8.9,
+      "year": "1999",
+      "poster": "https://www.imdb.com/title/tt0388629/mediaviewer/rm3995109633/?ref_=tt_ov_i"
     }
   ]
 }
