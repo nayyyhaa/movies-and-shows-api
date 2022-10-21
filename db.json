@@ -260,6 +260,15 @@
       "rating": 7,
       "year": "2022",
       "poster": "https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg"
+    },
+    {
+      "id": 29,
+      "title": "Life is Beautiful",
+      "plot": "A Jewish father and his family are surrounded by Nazi death camps. Living in a hostile environment, he uses humor to shield his young son from the grim realities of war.",
+      "genre": "Drama",
+      "rating": 8.6,
+      "year": "1997",
+      "poster": "https://images.app.goo.gl/hoBHqgQmnQjcH4Ue6"
     }
   ],
   "shows": [
@@ -426,7 +435,7 @@
       "poster": "https://www.imdb.com/title/tt0050083/mediaviewer/rm2927108352/"
     },
     {
-      "id": 8,
+      "id": 18,
       "title": "One Piece",
       "plot": "Follows the adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger. The famous mystery treasure named One Piece",
       "genre": "Anime",
