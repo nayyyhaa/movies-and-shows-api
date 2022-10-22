@@ -278,7 +278,16 @@
       "rating": 6.8,
       "year": "2022",
       "poster": "https://images.app.goo.gl/Rtnzn3F5sfXuduwS9"
-    }
+    },
+    {
+      "id": "kantara",
+      "title": "Kantara",
+      "plot": "Kantara is a mysterious forest and this is a story that happens around the area",
+      "genre": "Action, Adventure, Drama, Thriller",
+      "rating": 9
+      "year": 2022
+      "poster": "https://tse4.mm.bing.net/th/id/OIP.hibp7HjGdW5GmxRrMwGFCgAAAA?pid=ImgDet&rs=1" 
+      }
   ],
   "shows": [
     {
