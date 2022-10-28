@@ -6,7 +6,7 @@ This is a REST-ful API made using the [json-server](https://github.com/typicode/
 User can interact with this database via making GET, POST, PUT, DELETE etc requests to it. You can even get an individual movies/shows. 
 
 ### Quickstart
-If you want to run the Movies and Shows API, make sure you have [Nodejs](https://nodejs.org/en/) installed and run the following commands in the repository directory.
+If you want to run the Movies and Shows API, make sure you have [Nodejs](https://nodejs.org/en/) installed. Now run the following commands in the repository directory:
 ```
 $ npm install
 $ node server.js
