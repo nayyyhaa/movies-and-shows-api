@@ -286,8 +286,17 @@
       "genre": "Action, Adventure, Drama, Thriller",
       "rating": 9,
       "year": 2022,
-      "poster": "https://tse4.mm.bing.net/th/id/OIP.hibp7HjGdW5GmxRrMwGFCgAAAA?pid=ImgDet&rs=1" 
-      }
+      "poster": "https://tse4.mm.bing.net/th/id/OIP.hibp7HjGdW5GmxRrMwGFCgAAAA?pid=ImgDet&rs=1"
+    },
+    {
+      "id": "legally-blonde",
+      "title": "Legally Blonde",
+      "plot": "Elle Woods, a fashionable sorority queen, is dumped by her boyfriend. She decides to follow him to law school. While she is there, she figures out that there is more to her than just looks.",
+      "genre": "Comedy, Romance",
+      "rating": 6.4,
+      "year": "2001",
+      "poster": "https://images.app.goo.gl/6e6Zqxpu2Ly3NUTSA"
+    }
   ],
   "shows": [
     {
@@ -460,6 +469,15 @@
       "rating": 8.9,
       "year": "1999",
       "poster": "https://www.imdb.com/title/tt0388629/mediaviewer/rm3995109633/?ref_=tt_ov_i"
+    },
+    {
+      "id": "jersey-shore",
+      "title": "Jersey Shore",
+      "plot": "A reality-based look at the vapid lives of several New Jersey 20-somethings and their respective friends and/or hook-ups.",
+      "genre": "Reality, Drama, Comedy",
+      "rating": 3.8,
+      "year": "2009",
+      "poster": "https://images.app.goo.gl/FGNjb7wiLS5HoqNS6"
     }
   ]
 }
