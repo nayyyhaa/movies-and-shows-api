@@ -260,7 +260,7 @@
       "rating": 7,
       "year": "2022",
       "poster": "https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg"
-    }
+    },
 
     {
       "id": 30,
@@ -436,13 +436,23 @@
       "poster": "https://www.imdb.com/title/tt0050083/mediaviewer/rm2927108352/"
     },
     {
-      "id": 8,
+      "id": 18,
       "title": "One Piece",
       "plot": "Follows the adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger. The famous mystery treasure named One Piece",
       "genre": "Anime",
       "rating": 8.9,
       "year": "1999",
       "poster": "https://www.imdb.com/title/tt0388629/mediaviewer/rm3995109633/?ref_=tt_ov_i"
+    },
+
+    {
+      "id": 19,
+      "title": "The End of the F***ing World",
+      "plot": "The End of the F***ing World: With Jessica Barden, Alex Lawther, Steve Oram, Christine Bottomley. James is 17 and is pretty sure he is a psychopath.",
+      "genre": "Dark comedy ",
+      "rating": 8.1,
+      "year": "2017",
+      "poster": "https://www.imdb.com/title/tt6257970/"
     }
   ]
 }
