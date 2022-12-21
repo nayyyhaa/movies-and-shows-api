@@ -20,17 +20,19 @@ Make sure `git` is installed in your system.
 **EXAMPLE FORMAT OF ONE DATA IN JSON**
 ```json
       {
-          "id": 1,
-          "title":"F.R.I.E.N.D.S",
-          "plot":"Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening.",
-          "genre":"Sitcom",
-          "rating": 8.8,
-          "year":"1994",
-          "poster":"https://images.app.goo.gl/s8MgXzzvR5KmzT1R8"
-      }
+      "id": "falling-down",
+      "title": "Falling Down",
+      "plot": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+      "genre": "Action, Crime, Drama",
+      "rating": 7.6,
+      "year": "1993",
+      "poster": "https://images.app.goo.gl/5YfzB9qGbbsopeT4A"
+    }
 ```
 
 It should include `id`, `title`, `plot`, `genre`, `rating`, `year` and `poster` in respective **movies** or **shows** array.
+
+**NOTE**: `id` is in [kebab case](https://www.theserverside.com/definition/Kebab-case) and `genre` is comma seperated string`
 
 6) Afterward, on your terminal / command prompt, type "git add db.json"; then 'git commit -m "[type a message]" '.
 7) Create a remote to link the repository on github to your local workspace. use "git remote add [remote-name] [put the github link here]"
